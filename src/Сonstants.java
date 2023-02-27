@@ -1,4 +1,4 @@
-package Java.src;
+package src;
 
 public class Сonstants {
     public static final String UNCORR_IDX = "Ошибка! Некорректный индекс!";
