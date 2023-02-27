@@ -1,4 +1,4 @@
-package Java.src;
+package src;
 
 public class Toy implements Comparable<Toy> {
     private Integer id;
