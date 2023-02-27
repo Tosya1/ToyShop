@@ -1,4 +1,4 @@
-package Java.src;
+package src;
 
 import java.util.PriorityQueue;
 
